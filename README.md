@@ -7,11 +7,17 @@ This project uses a **Linear Regression** model to predict an employee's salary 
 ## 📂 Project Structure
 
 ├── Employees.xlsx # Dataset
+
 ├── Salary Prediction.ipynb # Main Jupyter notebook
+
 ├── Linearmodel.pkl # Saved trained model
+
 ├── App.py / streamlit_app.py # Streamlit web app
+
 ├── App Demo.webm # App Demo 
+
 ├── PPT for Employees Salary Prediction.pptx # PPT
+
 └── README.md # Project description
 
 
